@@ -1,0 +1,8 @@
+a = int(input("Enter a number:"))
+y = float(a/365)
+r = float(a%365)
+m = float(r/30)
+d = float(r%30)
+print("Year=",y)
+print("Month=",m)
+print("Day=",d)

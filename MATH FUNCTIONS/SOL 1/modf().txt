@@ -1,0 +1,6 @@
+#Returns the fractional and integer parts of x
+import math
+
+print (math.modf(100.72))
+
+print (math.modf(math.pi))

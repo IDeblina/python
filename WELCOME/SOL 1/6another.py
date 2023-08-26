@@ -1,0 +1,7 @@
+a=int(input("Enter the no"))
+b=int(input("Enter the no"))
+print("A+B=",a+b)
+print ("A-B=",a-b)
+print ("A/B=",a/b)
+print ("A*B=",a*b)
+print ("A%B=",a%b)

@@ -1,0 +1,6 @@
+print ("NAME : Riya Das")
+print ("Father's Name : Vicky Das")
+print ("DOB : 2/12/2003")
+print ("Address : Howrah")
+print ("PH. No : 9728364388")
+print ("E-mail ID : abcd@gmail.com")

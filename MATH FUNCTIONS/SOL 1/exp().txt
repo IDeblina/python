@@ -1,0 +1,3 @@
+#Returns e**x
+import math
+print (math.exp(9))

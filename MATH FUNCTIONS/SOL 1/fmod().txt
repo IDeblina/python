@@ -1,0 +1,3 @@
+#Returns the remainder when x is divided by y
+import math
+print (math.fmod(8,3))

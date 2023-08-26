@@ -1,0 +1,5 @@
+#Returns x * (2**i)
+import math
+
+print (math.ldexp(2, 4))
+

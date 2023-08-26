@@ -1,0 +1,4 @@
+#Returns the natural logarithm of 1+x
+
+import math
+print (math.log1p(10))

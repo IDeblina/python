@@ -1,0 +1,11 @@
+#Python frexp(x) function returns the mantissa
+#and exponent as the pair(m,n) of x by
+#solving x = m * 2**n, where 0.5 <= m < 1.
+#It's a method of math module. 
+
+import math
+print (math.frexp(3.4))
+
+print (math.frexp(0))
+
+print (math.frexp(4))

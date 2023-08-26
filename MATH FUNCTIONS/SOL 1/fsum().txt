@@ -1,0 +1,5 @@
+import math
+values = [0.9999999, 1, 2, 3]
+print (math.fsum(values))
+
+
